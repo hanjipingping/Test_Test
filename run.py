@@ -25,3 +25,4 @@ runner = TestRunner(
 runner.run()
 #测试
 print("测试通过")
+print("韩继平测试通过")
